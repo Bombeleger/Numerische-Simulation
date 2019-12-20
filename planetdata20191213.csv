@@ -1,0 +1,15 @@
+Koerper;Zentrum;Farbe;Masse;Radius;vmin;vmax;MinAbstand;MaxAbstand;Revolution
+(String);(String);(String);(10^24 kg);(km);(km / s);(km / s);(10^6 km);(10^6 km);(days)
+Sonne;selbst;yellow;1988500;695700;0;0;0;0;0
+Merkur;Sonne;gray;0,33011;2439,7;38,86;58,98;46;69,82;115,88
+Venus;Sonne;brown;4,87675;6051,8;34,79;35,26;107,48;108,94;583,92
+Erde;Sonne;blue;5,9723;6731;29,29;30,29;147,09;152,1;1
+Mond;Erde;gray;0,07346;1737,4;1,022;1,082;0,3633;0,4055;27,3217
+Mars;Sonne;red;0,64171;3389,5;21,97;26,5;206,62;249,23;779,94
+Jupiter;Sonne;magenta;1898,19;69911;12,44;13,72;740,52;816,62;398,88
+Saturn;Sonne;orange;568,34;58232;9,09;10,18;1352,55;1514,5;378,09
+Uranus;Sonne;cyan;86,813;25362;6,49;7,11;2741,3;3003,62;369,66
+Neptun;Sonne;purple;102,413;24622;5,37;5,5;4444,45;4545,67;367,49
+Pluto;Sonne;yellow;0,01303;1188;3,71;6,1;4436,82;7375,93;366,73
+Phobos;Mars;;1,07E-08;0;0;0;0,0009376;0;0
+Deimos;;;2,50E-09;0;0;0;0,0023459;0;0
